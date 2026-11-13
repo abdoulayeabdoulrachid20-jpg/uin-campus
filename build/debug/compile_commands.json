@@ -7,6 +7,12 @@
 },
 {
   "directory": "/home/abdoul-rachid-abdoulaye/uin-campus/build/debug",
+  "command": "/usr/bin/g++-14 -DUIN_VERSION=\\\"0.1.0\\\" -I/home/abdoul-rachid-abdoulaye/uin-campus/include -g -std=gnu++23 -Wall -Wextra -Wpedantic -Wshadow -Wconversion -fsanitize=address,undefined -fno-omit-frame-pointer -o CMakeFiles/uincampus_core.dir/src/calculs.cpp.o -c /home/abdoul-rachid-abdoulaye/uin-campus/src/calculs.cpp",
+  "file": "/home/abdoul-rachid-abdoulaye/uin-campus/src/calculs.cpp",
+  "output": "CMakeFiles/uincampus_core.dir/src/calculs.cpp.o"
+},
+{
+  "directory": "/home/abdoul-rachid-abdoulaye/uin-campus/build/debug",
   "command": "/usr/bin/g++-14 -DUIN_VERSION=\\\"0.1.0\\\" -I/home/abdoul-rachid-abdoulaye/uin-campus/include -g -std=gnu++23 -Wall -Wextra -Wpedantic -Wshadow -Wconversion -fsanitize=address,undefined -fno-omit-frame-pointer -o CMakeFiles/uincampus_core.dir/src/regles.cpp.o -c /home/abdoul-rachid-abdoulaye/uin-campus/src/regles.cpp",
   "file": "/home/abdoul-rachid-abdoulaye/uin-campus/src/regles.cpp",
   "output": "CMakeFiles/uincampus_core.dir/src/regles.cpp.o"

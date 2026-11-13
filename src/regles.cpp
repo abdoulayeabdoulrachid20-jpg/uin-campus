@@ -1,4 +1,3 @@
-
 #include "uincampus/regles.hpp"
 namespace uin {
 Mention mentionPour(double moyenne)
