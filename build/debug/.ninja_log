@@ -6,3 +6,11 @@
 2294	2445	1794508612059814040	libuincampus_core.a	c3ab09c4814609e0
 3	6090	1794508615694768343	CMakeFiles/uin-campus.dir/app/main.cpp.o	d2005d2e2cd3f743
 6090	6323	1794508615936765300	uin-campus	15ec0ad98c572738
+18	593	1795079320399861761	CMakeFiles/uincampus_core.dir/src/regles.cpp.o	9c06179f329ef2fc
+17	1295	1795079321102680235	CMakeFiles/uincampus_core.dir/src/calculs.cpp.o	ee406aaeab4cd1cd
+19	2447	1795079322253849312	CMakeFiles/uincampus_core.dir/src/saisie.cpp.o	5291ad38c2c5899c
+2447	2788	1795079322591542108	libuincampus_core.a	c3ab09c4814609e0
+19	6474	1795079326267841114	CMakeFiles/uin-campus.dir/app/main.cpp.o	d2005d2e2cd3f743
+6	345	1795079546930377737	CMakeFiles/uincampus_core.dir/src/regles.cpp.o	9c06179f329ef2fc
+345	482	1795079547062424037	libuincampus_core.a	c3ab09c4814609e0
+482	716	1795079547296507074	uin-campus	15ec0ad98c572738
